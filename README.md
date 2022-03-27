@@ -18,7 +18,7 @@
     
 </div><br/>
 
-* Apaixnonado por tecnologia, atualmente trabalhando como web full stack junior
+* Apaixnonado por tecnologia
 
 ## tecnologias ja estudadas
 <div style="display: inline_block"><br/>
