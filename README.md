@@ -1,6 +1,5 @@
-### Olá! Eu sou o Eliardo Silva 🖐️🤙🤖🚀🚀🚀
+### Olá! Eu sou o Eliardo Venancio 🖐️🤙🤖🚀🚀🚀
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliardo_venancio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliardo-venancio-desenvolvedor/)
 
 ![Eliard0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliard0&show_icons=true&theme=dracula)
@@ -19,9 +18,7 @@
     
 </div><br/>
 
-* Apaixnonado por tecnologia
-
-## tecnologias ja estudadas
+## tecnologias em que ja desenvolvi projetos
 <div style="display: inline_block"><br/>
     <img alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="KOTLIN"src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
